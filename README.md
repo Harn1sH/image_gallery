@@ -1,2 +1,2 @@
-# image_gallery
+<center>   # image_gallery</center>
  
