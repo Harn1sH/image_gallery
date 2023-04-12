@@ -1,2 +1,2 @@
-<center>   # image_gallery</center>
+<center>   # image_gallery </center>
  
