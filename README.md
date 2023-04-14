@@ -1,4 +1,4 @@
-# Picasso's Gallery 
+# About the App
 
 - A simple image gallery made using pixabay api
 - CSS styling will be added soon
