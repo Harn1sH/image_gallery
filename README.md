@@ -2,7 +2,7 @@
 
 - A simple image gallery made using pixabay api
 - CSS styling will be added soon
-- Made using react
+- Made using [create-react-app](https://create-react-app.dev/) and [TailwindCSS](https://tailwindcss.com/)
 
 # Installation
 - Download and extract this repository
